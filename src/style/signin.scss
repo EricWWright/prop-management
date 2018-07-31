@@ -13,7 +13,7 @@
     &__email {
         margin-top: 7.7rem;
     }
-    &__pasword {
+    &__password {
         margin-top: 4rem;
     }
     &__login {
@@ -21,5 +21,10 @@
     }
     &__text-links {
         margin-top: 5.2rem;
+    }
+
+    &__email,
+    &__password {
+        transform: translate(-64.5px);
     }
 }
